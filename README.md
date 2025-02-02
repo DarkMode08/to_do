@@ -49,4 +49,3 @@ flutter run
 Escalabilidad: La aplicación está diseñada para ser escalable, permitiendo futuras mejoras como notificaciones push, sincronización en la nube o integración con APIs externas.
 Modo Oscuro: El diseño está optimizado para funcionar perfectamente en modo oscuro, asegurando una experiencia cómoda para los usuarios.
 Personalización: Fácil de adaptar para incluir nuevas funcionalidades según las necesidades del usuario.
->>>>>>> 413f069c5fd6e20f0024a9c37d05a5a26790cefe
