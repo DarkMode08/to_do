@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# to_do
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # Proyecto de Gestión de Tareas (To-Do App) en Flutter
 
 Este proyecto es una aplicación móvil diseñada para ayudar a los usuarios a gestionar sus tareas diarias de manera eficiente. Con una interfaz moderna y funcionalidades intuitivas, permite crear, editar, eliminar y marcar tareas como completadas. Además, incluye categorías personalizadas y selección de fechas para organizar mejor las actividades.
