@@ -45,8 +45,7 @@ flutter run
 ```
 
 # Preview
-![Texto alternativo](https://github.com/DarkMode08/to_do/blob/main/lib/assets/images/ListView.png?raw=true)
-![Texto alternativo](https://github.com/DarkMode08/to_do/blob/main/lib/assets/images/FormView.png?raw=true)
+![Texto alternativo](https://github.com/DarkMode08/to_do/blob/main/lib/assets/images/To_Do.png?raw=true)
 
 # Notas Adicionales
 
