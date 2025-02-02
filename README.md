@@ -44,6 +44,10 @@ flutter pub get
 flutter run
 ```
 
+# Preview
+![Texto alternativo](https://github.com/DarkMode08/to_do/blob/main/lib/assets/images/ListView.png?raw=true)
+![Texto alternativo](https://github.com/DarkMode08/to_do/blob/main/lib/assets/images/FormView.png?raw=true)
+
 # Notas Adicionales
 
 Escalabilidad: La aplicación está diseñada para ser escalable, permitiendo futuras mejoras como notificaciones push, sincronización en la nube o integración con APIs externas.
